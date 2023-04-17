@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "173224929022",
+    "project_id": "highon-c9636",
+    "storage_bucket": "highon-c9636.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173224929022:android:b2de7f3ead51396722a7af",
+        "android_client_info": {
+          "package_name": "com.highon.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173224929022-9ji6rj14pmhnf5ai15c3s0ahfpmmj3h1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.highon.com",
+            "certificate_hash": "96765eec418bf87e6d3f78953b318f0e5bda93be"
+          }
+        },
+        {
+          "client_id": "173224929022-ft4k7ctjct3nqdln4i81laj5t14ls4lq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.highon.com",
+            "certificate_hash": "1caab8fe7e534e8fc80e75155655e0828305e7b3"
+          }
+        },
+        {
+          "client_id": "173224929022-alomdu9fk32rnfhdmujf1hskr628pc40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAludfIEmrnWCsMmHqR_LseZXbTdmP9D8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173224929022-alomdu9fk32rnfhdmujf1hskr628pc40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

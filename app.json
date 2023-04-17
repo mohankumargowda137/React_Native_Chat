@@ -2,6 +2,11 @@
   "expo": {
     "name": "highon",
     "slug": "highon",
+    "plugins": [["@react-native-google-signin/google-signin"],["react-native-fbsdk-next",{
+      "appID": "580880934009805",
+      "clientToken": "b8feeafcc09b79c20a94f618a404c331",
+      "displayName": "Highon"
+    }]],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -18,13 +23,20 @@
       "supportsTablet": true
     },
     "android": {
+      "googleServicesFile": "./google-services.json",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.highon.com"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "49e61dc4-4c55-4ec7-8e97-2317f1782f7c"
+      }
     }
   }
 }
