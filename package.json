@@ -28,7 +28,7 @@
     "npm": "^9.6.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-native": "0.71.6",
+    "react-native": "0.82.1",
     "react-native-awesome-alerts": "^2.0.0",
     "react-native-emoji-input": "^1.1.10",
     "react-native-emoji-modal": "^0.2.4",
